@@ -6,7 +6,7 @@ use version;
 
 use parent qw/URI::_server/;
 
-our $VERSION = version->declare('0.01');
+our $VERSION = version->declare('v0.01');
 
 sub bucket { shift->host }
 

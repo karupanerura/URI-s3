@@ -65,6 +65,9 @@
       }
    },
    "version" : "v0.01",
+   "x_contributors" : [
+      "Michal Josef Špaček <michal.spacek@gooddata.com>"
+   ],
    "x_serialization_backend" : "JSON::PP version 4.02",
    "x_static_install" : 1
 }

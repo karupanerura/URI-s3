@@ -42,12 +42,14 @@
       },
       "runtime" : {
          "requires" : {
+            "URI" : "0",
             "perl" : "5.008001"
          }
       },
       "test" : {
          "requires" : {
-            "Test::More" : "0.98"
+            "Test::More" : "0.98",
+            "URI" : "0"
          }
       }
    },

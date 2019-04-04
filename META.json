@@ -48,8 +48,7 @@
       },
       "test" : {
          "requires" : {
-            "Test::More" : "0.98",
-            "URI" : "0"
+            "Test::More" : "0.98"
          }
       }
    },
